@@ -9,7 +9,6 @@ function List() {
                     <Item marca="Fiat" ano_lancamento={1964}/>
                     <Item marca="Toyota" ano_lancamento={1965}/>
                     <Item marca="Cevrolet" ano_lancamento={1999}/>
-                    <Item />
                 </ul>
         </>
     );

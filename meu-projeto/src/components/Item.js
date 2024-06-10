@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types';
 
-function Item({ marca = 'Faltou a marca', ano_lancamento = 1 }) {
+function Item({ marca, ano_lancamento}) {
   return (
     <>
       <li>
